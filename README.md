@@ -1,3 +1,3 @@
-# Personal Resume
+# Personal CV
 
 Access here: https://zoltanszekely21.github.io/ZoltanSzekelyCV/
